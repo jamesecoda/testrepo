@@ -1,17 +1,16 @@
-
 version: 2
 
 models:
-    - name: jamestest
-      description: "A starter dbt model"
-      columns:
-          - name: id
-            description: "The primary key for this table"
+  - name: jamestest
+    description: changess
+    columns:
+      - name: id
+        description: The primary key for this table
 
 
-    - name: jamestest2
-      description: "A starter dbt model"
-      columns:
-          - name: id
-            description: "The primary key for this table"
+  - name: jamestest2
+    description: A starter dbt model
+    columns:
+      - name: id
+        description: The primary key for this table
 
