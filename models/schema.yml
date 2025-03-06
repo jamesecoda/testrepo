@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: jamestest
-    description: changess1
+    description: NEW CHANGE
     columns:
       - name: id
         description: The primary key for this table
